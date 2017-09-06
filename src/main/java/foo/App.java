@@ -19,7 +19,6 @@ public int  addAccount(int a,int b){
 	
 	
 }
-
 public int  mutiplyAccount(int a,int b){
 	
 	
