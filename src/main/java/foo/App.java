@@ -22,8 +22,7 @@ public int  mutiplyAccount(int a,int b){
 	int f= a*b;
 	//helo this is done
 	return f;
-	
-	
+		
 }
 
 public int  deleteAccount(int a,int b){
