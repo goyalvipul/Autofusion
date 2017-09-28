@@ -6,7 +6,7 @@ package foo;
 public class App {
 
 public String getAccountName(){
-			return "QATester  ";
+			return "QATester";
 }
 public int  addAccount(int a,int b){
 		
