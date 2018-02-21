@@ -33,7 +33,7 @@ public class AppTest{
 		
 		
 	
-		System.out.println("Inside  loginpage");
+		System.out.println("Insidloginpage");
 		
 		Assert.assertEquals(driver.getTitle(), "Google");
 	}
