@@ -42,7 +42,7 @@ public class AppTest{
 	public void verifyAccount(){
 		
 	
-		System.out.println("Inside the the Verify...");
+		System.out.println("Inside the the Verify......");
 		
 		Assert.assertEquals(app.getAccountName(), "QATester");
 	}
