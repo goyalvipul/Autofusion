@@ -36,7 +36,7 @@ public int  deleteAccount(int a,int b){
 
     public static void main( String[] args )
     {
-        System.out.println( "Hello all to latest code worlds...!!!LL" );
+        System.out.println( "Hello all to latest code worlds...!!!" );
         
     }
 }
