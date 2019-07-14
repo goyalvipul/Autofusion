@@ -5,8 +5,7 @@ package foo;
  */
 public class App {
 
-	
-	
+		
 public String getAccountName(){
 			return "QATester";
 }
