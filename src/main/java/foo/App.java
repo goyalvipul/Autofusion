@@ -1,7 +1,6 @@
 package foo;
 /**
  * Hello world new....!
- *
  */
 public class App {
 		
